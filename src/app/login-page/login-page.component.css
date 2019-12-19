@@ -1,0 +1,7 @@
+#successBox {
+  visibility: hidden;
+}
+
+#failedBox {
+  visibility: hidden;
+}
